@@ -1,6 +1,6 @@
 ## Sneha Alwani
 
-Github Pages Experiement
+Github Pages Experiment
 
 ### Steps followed are here:
 
